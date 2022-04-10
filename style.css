@@ -1,0 +1,55 @@
+#loginBackground1 {
+    background-image: url("BackgroundImage1.jpg");
+    position: cover;
+    padding-bottom: 50%;
+    margin-top: -15%;
+    margin-left: -10%;
+}
+
+#loginBackground2 {
+    background-image: url("BackgroundImage2.jpg");
+}
+
+#loginBackground3 {
+    background-image: url("BackgroundImage3.jpg");
+}
+
+#loginBackground4 {
+    background-image: url("BackgroundImage4.jpg");
+}
+
+.login11 {
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    margin-left: 7%;
+}
+
+.Player1 {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.login12 {
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    margin-left: 7%;
+}
+
+#heading {
+    margin-left: 8%;
+    position: center;
+    background-color: chartreuse;
+    width: 15%;
+}
+
+#btnLogin {
+    margin-left: 8%;
+}
+
+#btnOfBack1 {
+    margin-left: 8%;
+}
